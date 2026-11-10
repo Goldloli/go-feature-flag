@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.8.1](https://github.com/thomaspoignant/go-feature-flag/compare/modules/core/v0.8.0...modules/core/v0.8.1) (2026-11-10)
+
+
+### 🐛 Bug Fixes
+
+* **core:** guard nil progressive rollout steps in IsValid ([#6438](https://github.com/thomaspoignant/go-feature-flag/issues/6438)) ([21d0320](https://github.com/thomaspoignant/go-feature-flag/commit/21d0320301e6acac8540995a0da85f5bf585e3e8))
+* **core:** reject negative and non-finite percentages ([#6450](https://github.com/thomaspoignant/go-feature-flag/issues/6450)) ([c13da31](https://github.com/thomaspoignant/go-feature-flag/commit/c13da31092057154b68b821613742862eaff30eb))
+* **core:** reject negative and non-finite progressive rollout percentages ([#6454](https://github.com/thomaspoignant/go-feature-flag/issues/6454)) ([22d7815](https://github.com/thomaspoignant/go-feature-flag/commit/22d7815a3eaf4a6db106de17e50d5706e3406e45))
+
 ## [0.8.0](https://github.com/thomaspoignant/go-feature-flag/compare/modules/core/v0.7.2...modules/core/v0.8.0) (2026-11-02)
 
 
