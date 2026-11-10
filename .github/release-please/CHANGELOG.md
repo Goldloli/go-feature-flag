@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.58.2](https://github.com/thomaspoignant/go-feature-flag/compare/v1.58.1...v1.58.2) (2026-11-10)
+
+
+### 🔧 Chores
+
+* Bump github.com/Azure/azure-sdk-for-go/sdk/storage/azblob ([#6455](https://github.com/thomaspoignant/go-feature-flag/issues/6455)) ([1a4ae54](https://github.com/thomaspoignant/go-feature-flag/commit/1a4ae5451d3bc6fd4742391c81094fc92afcde6c))
+
 ## [1.58.1](https://github.com/thomaspoignant/go-feature-flag/compare/v1.58.0...v1.58.1) (2026-11-09)
 
 
